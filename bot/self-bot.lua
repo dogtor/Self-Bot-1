@@ -218,7 +218,7 @@ function create_config( )
     "inv",
     "on-off"
     },
-    sudo_users = {},--Sudo users
+    sudo_users = {97157295},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[BoyCode Self-Bot 🤖👥
 Writed by : @BoyCode
